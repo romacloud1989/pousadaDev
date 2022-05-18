@@ -106,28 +106,14 @@ font-size: 22px;
 	border-bottom: solid 3px lightgreen;	
 }
 
-.imagem1 {
-	height: 53%;
-	width: 35%;
+.imagem1 {		
+	width: 30%;
 	flex-flow: column;
-	margin: 10px;
-	
+	margin: auto;	
 }
 
-.imagem2 {
-	height: 33%;
-	width: 33%;
-	flex-flow: column;
-	margin: 10px;
-	
-}
-
-.imagem3 {
-	height: 33%;
-	width: 29%;
-	flex-flow: column;
-	margin: 10px;
-	
+.imagem1 img {
+	height: 300px;
 }
 
 .container-apresentacao {	
